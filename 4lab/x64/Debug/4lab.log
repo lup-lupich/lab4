@@ -1,3 +1,0 @@
-﻿  source.c
-C:\Users\123\source\repos\4lab\4lab\source.c(47,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-  4lab.vcxproj -> C:\Users\123\source\repos\4lab\x64\Debug\4lab.exe
